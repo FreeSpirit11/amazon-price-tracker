@@ -18,6 +18,10 @@ Welcome to the Amazon Price Tracker repository! This Python script monitors the 
 5. Run the script: `python main.py`
 6. Stay updated with Amazon deals via email alerts!
 
+## File Structure
+
+- `main.py`: The main script file for tracking Amazon product prices and sending email alerts.
+  
 ## Technologies Used
 
 - Python
@@ -28,7 +32,10 @@ Welcome to the Amazon Price Tracker repository! This Python script monitors the 
 
 Ensure compliance with Amazon's terms of use and use secure methods to store sensitive information.
 
-## Acknowledgements
+## Acknowledgement
 
-This project is a part of #100daysofcode by Angela Yu. 
+This project is a part of the "100 Days of Code" challenge by Angela Yu.
+
+## Author
+- [Mansi Yadav](https://github.com/FreeSpirit11/amazon-price-tracker)
 

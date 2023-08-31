@@ -13,6 +13,7 @@ Welcome to the Amazon Price Tracker repository! This Python script monitors the 
    - `PRODUCT_URL`: The URL of the Amazon product you want to track.
    - `BUY_PRICE`: Set the price threshold for receiving alerts.
    - `to_addrs` : Recipient email address.
+   - `Your-User-Agent-String`: User agent string for mimicking a web browser.
 
 4. Customize the request headers to mimic a web browser.
 5. Run the script: `python main.py`
